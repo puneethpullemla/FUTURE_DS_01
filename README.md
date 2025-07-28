@@ -85,7 +85,6 @@ Contains sales and product information:
 
 | Dashboard Preview |
 |-------------------|
-| ![Dashboard Screenshot] |
 <img width="1920" height="1080" alt="Screenshot" src="https://github.com/user-attachments/assets/4f60b2e3-0ee8-4b9f-8cc4-c7ec0c0f029a" />
 
 ---
