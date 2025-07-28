@@ -77,7 +77,7 @@ Contains sales and product information:
 ## 🎥 Demo Video
 
 ▶️ Watch my dashboard in action:  
-[Insert video link or upload file to repo if public]
+[]
 
 ---
 
