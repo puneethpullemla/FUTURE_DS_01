@@ -77,7 +77,7 @@ Contains sales and product information:
 ## 🎥 Demo Video
 
 ▶️ Watch my dashboard in action:  
-[]
+[https://www.linkedin.com/posts/puneethkumar7_powerbi-dataanalytics-dashboarddesign-activity-7355646253235392512-5ZlY?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFyPKQoBOH6u-Gq-97j1KOwvAFlURRweiFU]
 
 ---
 
